@@ -47,7 +47,7 @@ class FoodActivity : AppCompatActivity(), FoodAdapter.OnFoodClickListener {
     }
 
     override fun onFoodClicked(food: Food) {
-        val intent = Intent(this, FoodActivity::class.java)
+        val intent = Intent(this, MainActivity::class.java)
 
         intent.putExtra(MainActivity.EXTRA_FOOD, food)
 

@@ -34,8 +34,8 @@ class FoodAdapter(private val context: Context, private var list: List<Food>,
         }
 
         fun bind(food: Food) {
-            //(itemView.findViewById<ImageView>(R.id.ivPicture)).setImageResource(food.id)
-            //(itemView.findViewById<TextView>(R.id.tvName)).text = food.name
+            (itemView.findViewById<ImageView>(R.id.ivPicture)).setImageResource(food.id)
+            (itemView.findViewById<TextView>(R.id.tvName)).text = food.name
         }
 
         override fun onClick(view: View?) {

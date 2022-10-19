@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">W1D5</string>
+    <string name="app_name">Food App</string>
 
     <string name="item_1_name">Coffee</string>
     <string name="item_1_recipe">Coffee preparation is the process of turning coffee beans into a beverage. While the particular steps vary with the type of coffee and with the raw materials, the process includes four basic steps; raw coffee beans must be roasted, the roasted coffee beans must then be ground, the ground coffee must then be mixed with hot water for a certain time (brewed), and finally the liquid coffee must be separated from the used grounds</string>
@@ -14,7 +14,7 @@
     <string name="item_4_recipe">While it is less likely that anyone would do this on their own if they are not a beekeeper, this might be useful for those who aspire to become one. Bees are really great and easy to keep, even in the urban environment! As Novella Carpenter calls them, bees are animal for urban . All you need is some space in the backyard/deck. The process of honey harvesting and extraction most likely happens on a separate days. These are the tools required.</string>
 
     <string name="item_5_name">Strawberry</string>
-    <string name="item_5_recipe">Preparation. Coarsel y mash strawberries with sugar, lemon juice, and salt using a potato masher in a large bowl. Let stand, stirring and mashing occasionally, 10 minutes. Transfer half of strawberry mixture to a blender and purée with cream until smooth. Freeze mixture in ice maker.</string>
+    <string name="item_5_recipe">Preparation. Coarsely mash strawberries with sugar, lemon juice, and salt using a potato masher in a large bowl. Let stand, stirring and mashing occasionally, 10 minutes. Transfer half of strawberry mixture to a blender and purée with cream until smooth. Freeze mixture in ice maker.</string>
 
     <string name="item_6_name">Sugar cubes</string>
     <string name="item_6_recipe">Sugar cubes are extremely simple to make at home - all you need is sugar and water. In addition to standard cubes, you can add color and flavor to add fun flair to a tea party or another gathering. Learn how to make sugar cubes using two different methods: using a pan in the oven or an ice cube tray you leave out overnight.</string>
